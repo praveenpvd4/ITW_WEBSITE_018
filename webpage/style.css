@@ -89,7 +89,7 @@ height: auto;
    transform: translate(10%,10%);
 }
 .btn{
-   border:  2px solid rgba(243, 8, 8, 0);
+   border:  2px solid rgb(221, 212, 212);
    padding: 10px 30px;
    color: #fff;
    text-decoration-color: indianred ;
