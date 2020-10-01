@@ -12,7 +12,7 @@ header{
  }
  ul{
     float: right;
-    list-style: none;
+    list-style-type: inherit;
     margin-top: 25px;
  }
 
@@ -25,7 +25,7 @@ display: inline;
 text-decoration: none;
 color: skyblue;
 padding: 5px 20px;
-border: 2px solid purple transparent ;
+border: 2px solid purple  ;
 transition: 0.6s ease;
 }
 ul li a:hover
@@ -43,7 +43,7 @@ height: auto;
 .main
 {
    max-width: 1200px;
-   margin: auto ;
+   margin-top: 20px;
 
 }
 .button{
