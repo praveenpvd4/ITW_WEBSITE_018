@@ -1,0 +1,53 @@
+*{
+    margin: 2;
+    padding: 0;
+   
+ }
+ 
+ body {background-image: url("arg2.jpg");
+    width: 100%;
+    
+   
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    opacity: 80%;
+    padding: 30px;
+    box-sizing: border-box;
+}
+
+}
+ .table-box
+ {
+     margin: 5px top;
+ }
+ .table-row
+ {
+   display: table;
+   width: 80%;
+   margin:  20px ;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;  
+   background: seashell;
+   padding: 10px;
+   color: #555;
+   font-size: 20px;
+   box-shadow: 0 1px 4px 0 rgba(0,0, 50,0.3);
+
+ }
+ .table-cell
+ {
+     display: table-cell;
+     width: 15%;
+     text-align: center;
+     padding: 8px 1;
+     border-right: 2px solid #d80d0d;
+     vertical-align: text-bottom;
+
+ }
+ .table-head
+ {
+     background: #148dd3;
+     box-shadow: none;
+     color: rgb(12, 12, 12);
+     font-weight: 600;
+ }
